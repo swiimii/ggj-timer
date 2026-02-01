@@ -2,7 +2,7 @@
 layout: page
 ---
 
-<link rel="stylesheet" type="text/css" href="{{ './style.css' | relative_url }}">
+<link rel="stylesheet" type="text/css" href="style.css">
 
 <div>
     <p id="header" class="header">GGJ Jam Time Ends:</p>
