@@ -9,6 +9,6 @@ layout: page
     <p id="timer" class="timer">00:00:00</p>
 </div>
 
-<script type="text/javascript" src="index.js"></script>
+<script type="text/javascript" src="./index.js"></script>
 
 {{ content }}
