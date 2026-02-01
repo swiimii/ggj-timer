@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   This site shows how much time is left until the Global Game Jam Submission Deadline
   in local time. The date will be updated as the ending of a given Global Game Jam approaches.
   This site is not owned or affiliated with Global Game Jam.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/ggj-timer" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  swiimii
 
